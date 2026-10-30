@@ -2,6 +2,7 @@ packages:
   - ui/*
   - extensions/*
   - packages/*
+  - harness/*
   - apps/*
   - tools/*
   - examples/*
